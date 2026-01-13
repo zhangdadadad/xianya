@@ -1,0 +1,305 @@
+2026-01-08 15:45:44,617 - config - INFO - 配置文件加载成功: config.json
+2026-01-08 15:45:44,618 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-08 15:45:44,618 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-08 15:45:44,618 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-08 15:45:44,619 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:45:44,619 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:45:44,620 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:45:45,326 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-08 15:45:45,527 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-08 15:45:45,527 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-08 15:45:45,527 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=0, Name=USB摄像头2
+2026-01-08 15:45:45,528 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=0, Name=USB摄像头3
+2026-01-08 15:45:45,528 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=0, Name=USB摄像头4
+2026-01-08 15:45:46,036 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-08 15:45:46,036 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-08 15:45:46,930 - __main__ - INFO - 应用程序启动成功
+2026-01-08 15:46:53,179 - config - INFO - 配置文件加载成功: config.json
+2026-01-08 15:46:53,179 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-08 15:46:53,180 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-08 15:46:53,180 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-08 15:46:53,180 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:46:53,180 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:46:53,181 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:46:53,203 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-08 15:46:53,253 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-08 15:46:53,254 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-08 15:46:53,254 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=0, Name=USB摄像头2
+2026-01-08 15:46:53,254 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=0, Name=USB摄像头3
+2026-01-08 15:46:53,254 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=0, Name=USB摄像头4
+2026-01-08 15:46:53,307 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-08 15:46:53,308 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-08 15:46:53,667 - __main__ - INFO - 应用程序启动成功
+2026-01-08 15:46:57,737 - camera_stream - INFO - [2026-01-08 15:46:57] 正在启动摄像头监控...
+2026-01-08 15:46:57,902 - ffmpeg_stream - INFO - 添加摄像头 0: 0 (配置: USB摄像头1)
+2026-01-08 15:46:58,848 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-08 15:46:58,849 - camera_stream - INFO - [2026-01-08 15:46:58] 摄像头监控已启动
+2026-01-08 15:47:16,602 - camera_stream - INFO - [2026-01-08 15:47:16] 正在停止摄像头监控...
+2026-01-08 15:47:17,604 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-08 15:47:17,607 - camera_stream - INFO - [2026-01-08 15:47:17] 摄像头监控已停止
+2026-01-08 15:59:05,746 - config - INFO - 配置文件加载成功: config.json
+2026-01-08 15:59:05,747 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-08 15:59:05,747 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-08 15:59:05,748 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-08 15:59:05,748 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:59:05,748 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:59:05,748 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-08 15:59:05,773 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-08 15:59:05,848 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-08 15:59:05,848 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-08 15:59:05,848 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=0, Name=USB摄像头2
+2026-01-08 15:59:05,849 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=0, Name=USB摄像头3
+2026-01-08 15:59:05,849 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=0, Name=USB摄像头4
+2026-01-08 15:59:05,954 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-08 15:59:05,954 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-08 15:59:06,818 - __main__ - INFO - 应用程序启动成功
+2026-01-08 15:59:09,129 - camera_stream - INFO - [2026-01-08 15:59:09] 正在启动摄像头监控...
+2026-01-08 15:59:09,310 - ffmpeg_stream - INFO - 添加摄像头 0: 0 (配置: USB摄像头1)
+2026-01-08 15:59:10,152 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-08 15:59:10,152 - camera_stream - INFO - [2026-01-08 15:59:10] 摄像头监控已启动
+2026-01-08 16:00:14,051 - camera_stream - INFO - [2026-01-08 16:00:14] 扫码成功: 0000000003
+2026-01-08 16:00:14,053 - camera_stream - INFO - [2026-01-08 16:00:14] 开始联动抓拍...
+2026-01-08 16:00:14,155 - camera_stream - INFO - [2026-01-08 16:00:14] 主摄像头已抓取 3 帧
+2026-01-08 16:00:14,430 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-08 16:00:14,431 - camera_stream - INFO - [2026-01-08 16:00:14] 启动摄像头 2...
+2026-01-08 16:00:14,434 - ffmpeg_stream - INFO - 添加摄像头 1: 0 (配置: USB摄像头2)
+2026-01-08 16:00:15,109 - opencv_stream - INFO - OpenCV摄像头 1 已启动 (index=0)
+2026-01-08 16:00:16,271 - camera_stream - INFO - [2026-01-08 16:00:16] 摄像头 2 抓拍成功，共 3 帧
+2026-01-08 16:00:17,257 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-08 16:00:17,257 - camera_stream - INFO - [2026-01-08 16:00:17] 启动摄像头 3...
+2026-01-08 16:00:17,258 - ffmpeg_stream - INFO - 添加摄像头 2: 0 (配置: USB摄像头3)
+2026-01-08 16:00:17,927 - opencv_stream - INFO - OpenCV摄像头 2 已启动 (index=0)
+2026-01-08 16:00:19,090 - camera_stream - INFO - [2026-01-08 16:00:19] 摄像头 3 抓拍成功，共 3 帧
+2026-01-08 16:00:20,075 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-08 16:00:20,076 - camera_stream - INFO - [2026-01-08 16:00:20] 启动摄像头 4...
+2026-01-08 16:00:20,076 - ffmpeg_stream - INFO - 添加摄像头 3: 0 (配置: USB摄像头4)
+2026-01-08 16:00:20,764 - opencv_stream - INFO - OpenCV摄像头 3 已启动 (index=0)
+2026-01-08 16:00:21,922 - camera_stream - INFO - [2026-01-08 16:00:21] 摄像头 4 抓拍成功，共 3 帧
+2026-01-08 16:00:22,908 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-08 16:00:23,566 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-08 16:00:23,757 - camera_stream - INFO - [2026-01-08 16:00:23] 联动抓拍完成，共保存 12 张图像: captures\0000000003_20260108160023\cam1\cam1_1767859223566.jpg, captures\0000000003_20260108160023\cam1\cam1_1767859223590.jpg, captures\0000000003_20260108160023\cam1\cam1_1767859223603.jpg, captures\0000000003_20260108160023\cam2\cam2_1767859223629.jpg, captures\0000000003_20260108160023\cam2\cam2_1767859223644.jpg, captures\0000000003_20260108160023\cam2\cam2_1767859223658.jpg, captures\0000000003_20260108160023\cam3\cam3_1767859223674.jpg, captures\0000000003_20260108160023\cam3\cam3_1767859223689.jpg, captures\0000000003_20260108160023\cam3\cam3_1767859223703.jpg, captures\0000000003_20260108160023\cam4\cam4_1767859223716.jpg, captures\0000000003_20260108160023\cam4\cam4_1767859223730.jpg, captures\0000000003_20260108160023\cam4\cam4_1767859223744.jpg
+2026-01-08 16:00:23,758 - camera_stream - INFO - [2026-01-08 16:00:23] 身份认证成功
+2026-01-08 16:01:22,033 - camera_stream - INFO - [2026-01-08 16:01:22] 正在停止摄像头监控...
+2026-01-08 16:01:23,013 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-08 16:01:23,013 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-08 16:01:23,014 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-08 16:01:23,014 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-08 16:01:23,016 - camera_stream - INFO - [2026-01-08 16:01:23] 摄像头监控已停止
+2026-01-08 16:01:25,420 - camera_stream - INFO - [2026-01-08 16:01:25] 正在停止摄像头监控...
+2026-01-08 16:01:25,421 - camera_stream - INFO - [2026-01-08 16:01:25] 摄像头监控已停止
+2026-01-08 16:02:57,426 - config - INFO - 配置文件加载成功: config.json
+2026-01-08 16:02:57,426 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-08 16:02:57,426 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-08 16:02:57,427 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-08 16:02:57,427 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-08 16:02:57,427 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-08 16:02:57,427 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-08 16:02:57,450 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-08 16:02:57,473 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-08 16:02:57,474 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-08 16:02:57,474 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=0, Name=USB摄像头2
+2026-01-08 16:02:57,474 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=0, Name=USB摄像头3
+2026-01-08 16:02:57,474 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=0, Name=USB摄像头4
+2026-01-08 16:02:57,525 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-08 16:02:57,525 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-08 16:02:57,892 - __main__ - INFO - 应用程序启动成功
+2026-01-08 16:03:00,625 - camera_stream - INFO - [2026-01-08 16:03:00] 正在启动摄像头监控...
+2026-01-08 16:03:00,772 - ffmpeg_stream - INFO - 添加摄像头 0: 0 (配置: USB摄像头1)
+2026-01-08 16:03:01,479 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-08 16:03:01,480 - camera_stream - INFO - [2026-01-08 16:03:01] 摄像头监控已启动
+2026-01-08 16:03:27,090 - camera_stream - INFO - [2026-01-08 16:03:27] 扫码成功: 0000000003
+2026-01-08 16:03:34,287 - camera_stream - INFO - [2026-01-08 16:03:34] 开始联动抓拍...
+2026-01-08 16:03:34,389 - camera_stream - INFO - [2026-01-08 16:03:34] 主摄像头已抓取 3 帧
+2026-01-08 16:03:35,356 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-08 16:03:35,357 - camera_stream - INFO - [2026-01-08 16:03:35] 启动摄像头 2...
+2026-01-08 16:03:35,357 - ffmpeg_stream - INFO - 添加摄像头 1: 0 (配置: USB摄像头2)
+2026-01-08 16:03:36,015 - opencv_stream - INFO - OpenCV摄像头 1 已启动 (index=0)
+2026-01-08 16:03:37,174 - camera_stream - INFO - [2026-01-08 16:03:37] 摄像头 2 抓拍成功，共 3 帧
+2026-01-08 16:03:38,161 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-08 16:03:38,161 - camera_stream - INFO - [2026-01-08 16:03:38] 启动摄像头 3...
+2026-01-08 16:03:38,161 - ffmpeg_stream - INFO - 添加摄像头 2: 0 (配置: USB摄像头3)
+2026-01-08 16:03:38,821 - opencv_stream - INFO - OpenCV摄像头 2 已启动 (index=0)
+2026-01-08 16:03:39,983 - camera_stream - INFO - [2026-01-08 16:03:39] 摄像头 3 抓拍成功，共 3 帧
+2026-01-08 16:03:40,966 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-08 16:03:40,967 - camera_stream - INFO - [2026-01-08 16:03:40] 启动摄像头 4...
+2026-01-08 16:03:40,967 - ffmpeg_stream - INFO - 添加摄像头 3: 0 (配置: USB摄像头4)
+2026-01-08 16:03:41,636 - opencv_stream - INFO - OpenCV摄像头 3 已启动 (index=0)
+2026-01-08 16:03:42,795 - camera_stream - INFO - [2026-01-08 16:03:42] 摄像头 4 抓拍成功，共 3 帧
+2026-01-08 16:03:43,781 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-08 16:03:44,469 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-08 16:03:44,639 - camera_stream - INFO - [2026-01-08 16:03:44] 联动抓拍完成，共保存 12 张图像: captures\0000000003_20260108160344\cam1\cam1_1767859424469.jpg, captures\0000000003_20260108160344\cam1\cam1_1767859424483.jpg, captures\0000000003_20260108160344\cam1\cam1_1767859424495.jpg, captures\0000000003_20260108160344\cam2\cam2_1767859424507.jpg, captures\0000000003_20260108160344\cam2\cam2_1767859424526.jpg, captures\0000000003_20260108160344\cam2\cam2_1767859424541.jpg, captures\0000000003_20260108160344\cam3\cam3_1767859424555.jpg, captures\0000000003_20260108160344\cam3\cam3_1767859424571.jpg, captures\0000000003_20260108160344\cam3\cam3_1767859424586.jpg, captures\0000000003_20260108160344\cam4\cam4_1767859424599.jpg, captures\0000000003_20260108160344\cam4\cam4_1767859424612.jpg, captures\0000000003_20260108160344\cam4\cam4_1767859424626.jpg
+2026-01-08 16:03:44,642 - camera_stream - INFO - [2026-01-08 16:03:44] 身份认证成功
+2026-01-08 16:03:50,049 - camera_stream - INFO - [2026-01-08 16:03:50] 正在停止摄像头监控...
+2026-01-08 16:03:50,986 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-08 16:03:50,986 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-08 16:03:50,986 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-08 16:03:50,987 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-08 16:03:50,988 - camera_stream - INFO - [2026-01-08 16:03:50] 摄像头监控已停止
+2026-01-08 16:03:56,571 - camera_stream - INFO - [2026-01-08 16:03:56] 正在停止摄像头监控...
+2026-01-08 16:03:56,572 - camera_stream - INFO - [2026-01-08 16:03:56] 摄像头监控已停止
+2026-01-13 16:25:48,477 - config - INFO - 配置文件加载成功: config.json
+2026-01-13 16:25:48,478 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-13 16:25:48,478 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-13 16:25:48,478 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-13 16:25:48,479 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:25:48,479 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:25:48,479 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:25:48,498 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-13 16:25:48,533 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-13 16:25:48,533 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-13 16:25:48,533 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=0, Name=USB摄像头2
+2026-01-13 16:25:48,533 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=0, Name=USB摄像头3
+2026-01-13 16:25:48,533 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=0, Name=USB摄像头4
+2026-01-13 16:25:48,591 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 16:25:48,592 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-13 16:25:49,241 - main - INFO - 应用程序启动成功
+2026-01-13 16:25:52,532 - camera_stream - INFO - [2026-01-13 16:25:52] 正在启动摄像头监控...
+2026-01-13 16:25:52,688 - ffmpeg_stream - INFO - 添加摄像头 0: 0 (配置: USB摄像头1)
+2026-01-13 16:25:53,615 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-13 16:25:53,616 - camera_stream - INFO - [2026-01-13 16:25:53] 摄像头监控已启动
+2026-01-13 16:26:32,161 - camera_stream - INFO - [2026-01-13 16:26:32] 扫码成功: 0000000001
+2026-01-13 16:26:34,121 - camera_stream - INFO - [2026-01-13 16:26:34] 开始联动抓拍...
+2026-01-13 16:26:34,223 - camera_stream - INFO - [2026-01-13 16:26:34] 主摄像头已抓取 3 帧
+2026-01-13 16:26:35,198 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-13 16:26:35,199 - camera_stream - INFO - [2026-01-13 16:26:35] 启动摄像头 2...
+2026-01-13 16:26:35,200 - ffmpeg_stream - INFO - 添加摄像头 1: 0 (配置: USB摄像头2)
+2026-01-13 16:26:35,941 - opencv_stream - INFO - OpenCV摄像头 1 已启动 (index=0)
+2026-01-13 16:26:37,103 - camera_stream - INFO - [2026-01-13 16:26:37] 摄像头 2 抓拍成功，共 3 帧
+2026-01-13 16:26:38,097 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-13 16:26:38,100 - camera_stream - INFO - [2026-01-13 16:26:38] 启动摄像头 3...
+2026-01-13 16:26:38,100 - ffmpeg_stream - INFO - 添加摄像头 2: 0 (配置: USB摄像头3)
+2026-01-13 16:26:38,825 - opencv_stream - INFO - OpenCV摄像头 2 已启动 (index=0)
+2026-01-13 16:26:39,987 - camera_stream - INFO - [2026-01-13 16:26:39] 摄像头 3 抓拍成功，共 3 帧
+2026-01-13 16:26:40,982 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-13 16:26:40,983 - camera_stream - INFO - [2026-01-13 16:26:40] 启动摄像头 4...
+2026-01-13 16:26:40,983 - ffmpeg_stream - INFO - 添加摄像头 3: 0 (配置: USB摄像头4)
+2026-01-13 16:26:41,714 - opencv_stream - INFO - OpenCV摄像头 3 已启动 (index=0)
+2026-01-13 16:26:42,877 - camera_stream - INFO - [2026-01-13 16:26:42] 摄像头 4 抓拍成功，共 3 帧
+2026-01-13 16:26:43,871 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-13 16:26:44,594 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-13 16:26:44,783 - camera_stream - INFO - [2026-01-13 16:26:44] 联动抓拍完成，共保存 12 张图像: captures\0000000001_20260113162644\cam1\cam1_1768292804594.jpg, captures\0000000001_20260113162644\cam1\cam1_1768292804627.jpg, captures\0000000001_20260113162644\cam1\cam1_1768292804639.jpg, captures\0000000001_20260113162644\cam2\cam2_1768292804657.jpg, captures\0000000001_20260113162644\cam2\cam2_1768292804671.jpg, captures\0000000001_20260113162644\cam2\cam2_1768292804688.jpg, captures\0000000001_20260113162644\cam3\cam3_1768292804702.jpg, captures\0000000001_20260113162644\cam3\cam3_1768292804714.jpg, captures\0000000001_20260113162644\cam3\cam3_1768292804727.jpg, captures\0000000001_20260113162644\cam4\cam4_1768292804739.jpg, captures\0000000001_20260113162644\cam4\cam4_1768292804754.jpg, captures\0000000001_20260113162644\cam4\cam4_1768292804768.jpg
+2026-01-13 16:26:44,783 - camera_stream - INFO - [2026-01-13 16:26:44] 身份认证成功
+2026-01-13 16:26:48,535 - camera_stream - INFO - [2026-01-13 16:26:48] 正在停止摄像头监控...
+2026-01-13 16:26:49,491 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-13 16:26:49,491 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-13 16:26:49,491 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-13 16:26:49,492 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-13 16:26:49,493 - camera_stream - INFO - [2026-01-13 16:26:49] 摄像头监控已停止
+2026-01-13 16:33:57,937 - config - INFO - 配置文件加载成功: config.json
+2026-01-13 16:33:57,937 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-13 16:33:57,938 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-13 16:33:57,938 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-13 16:33:57,938 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:33:57,938 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:33:57,938 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:33:57,959 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-13 16:33:57,978 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-13 16:33:57,978 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-13 16:33:57,978 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=0, Name=USB摄像头2
+2026-01-13 16:33:57,978 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=0, Name=USB摄像头3
+2026-01-13 16:33:57,978 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=0, Name=USB摄像头4
+2026-01-13 16:33:58,040 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 16:33:58,041 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-13 16:33:58,606 - main - INFO - 应用程序启动成功
+2026-01-13 16:34:01,709 - camera_stream - INFO - [2026-01-13 16:34:01] 正在启动摄像头监控...
+2026-01-13 16:34:01,860 - ffmpeg_stream - INFO - 添加摄像头 0: 0 (配置: USB摄像头1)
+2026-01-13 16:34:02,796 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-13 16:34:02,796 - camera_stream - INFO - [2026-01-13 16:34:02] 摄像头监控已启动
+2026-01-13 16:34:10,833 - camera_stream - INFO - [2026-01-13 16:34:10] 扫码成功: 0000000001
+2026-01-13 16:34:12,435 - camera_stream - INFO - [2026-01-13 16:34:12] 开始联动抓拍...
+2026-01-13 16:34:12,538 - camera_stream - INFO - [2026-01-13 16:34:12] 主摄像头已抓取 3 帧
+2026-01-13 16:34:12,808 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-13 16:34:12,808 - camera_stream - INFO - [2026-01-13 16:34:12] 尝试启动摄像头 2...
+2026-01-13 16:34:12,811 - ffmpeg_stream - INFO - 添加摄像头 1: 0 (配置: USB摄像头2)
+2026-01-13 16:34:13,544 - opencv_stream - INFO - OpenCV摄像头 1 已启动 (index=0)
+2026-01-13 16:34:14,705 - camera_stream - INFO - [2026-01-13 16:34:14] 摄像头 2 抓拍成功，共 3 帧
+2026-01-13 16:34:15,703 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-13 16:34:15,704 - camera_stream - INFO - [2026-01-13 16:34:15] 尝试启动摄像头 3...
+2026-01-13 16:34:15,705 - ffmpeg_stream - INFO - 添加摄像头 2: 0 (配置: USB摄像头3)
+2026-01-13 16:34:16,429 - opencv_stream - INFO - OpenCV摄像头 2 已启动 (index=0)
+2026-01-13 16:34:17,594 - camera_stream - INFO - [2026-01-13 16:34:17] 摄像头 3 抓拍成功，共 3 帧
+2026-01-13 16:34:18,588 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-13 16:34:18,588 - camera_stream - INFO - [2026-01-13 16:34:18] 尝试启动摄像头 4...
+2026-01-13 16:34:18,589 - ffmpeg_stream - INFO - 添加摄像头 3: 0 (配置: USB摄像头4)
+2026-01-13 16:34:19,316 - opencv_stream - INFO - OpenCV摄像头 3 已启动 (index=0)
+2026-01-13 16:34:20,480 - camera_stream - INFO - [2026-01-13 16:34:20] 摄像头 4 抓拍成功，共 3 帧
+2026-01-13 16:34:21,474 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-13 16:34:22,199 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-13 16:34:22,381 - camera_stream - INFO - [2026-01-13 16:34:22] 联动抓拍完成，共保存 12 张图像: captures\0000000001_20260113163422\cam1\cam1_1768293262200.jpg, captures\0000000001_20260113163422\cam1\cam1_1768293262226.jpg, captures\0000000001_20260113163422\cam1\cam1_1768293262239.jpg, captures\0000000001_20260113163422\cam2\cam2_1768293262256.jpg, captures\0000000001_20260113163422\cam2\cam2_1768293262272.jpg, captures\0000000001_20260113163422\cam2\cam2_1768293262285.jpg, captures\0000000001_20260113163422\cam3\cam3_1768293262301.jpg, captures\0000000001_20260113163422\cam3\cam3_1768293262316.jpg, captures\0000000001_20260113163422\cam3\cam3_1768293262330.jpg, captures\0000000001_20260113163422\cam4\cam4_1768293262343.jpg, captures\0000000001_20260113163422\cam4\cam4_1768293262355.jpg, captures\0000000001_20260113163422\cam4\cam4_1768293262367.jpg
+2026-01-13 16:34:22,381 - camera_stream - INFO - [2026-01-13 16:34:22] 身份认证成功
+2026-01-13 16:34:28,746 - camera_stream - INFO - [2026-01-13 16:34:28] 正在停止摄像头监控...
+2026-01-13 16:34:29,689 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-13 16:34:29,690 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-13 16:34:29,690 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-13 16:34:29,691 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-13 16:34:29,706 - camera_stream - INFO - [2026-01-13 16:34:29] 摄像头监控已停止
+2026-01-13 16:37:52,193 - config - INFO - 配置文件加载成功: config.json
+2026-01-13 16:37:52,194 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-13 16:37:52,194 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-13 16:37:52,195 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-13 16:37:52,195 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:37:52,195 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:37:52,195 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-13 16:37:52,215 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-13 16:37:52,239 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-13 16:37:52,240 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-13 16:37:52,240 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=1, Name=USB摄像头2
+2026-01-13 16:37:52,240 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=2, Name=USB摄像头3
+2026-01-13 16:37:52,240 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=3, Name=USB摄像头4
+2026-01-13 16:37:52,295 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 16:37:52,296 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-13 16:37:52,647 - main - INFO - 应用程序启动成功
+2026-01-13 16:38:12,138 - camera_stream - INFO - [2026-01-13 16:38:12] 正在停止摄像头监控...
+2026-01-13 16:38:12,286 - camera_stream - INFO - [2026-01-13 16:38:12] 摄像头监控已停止
+2026-01-13 17:01:55,050 - config - INFO - 配置文件加载成功: config.json
+2026-01-13 17:01:55,051 - ffmpeg_stream - INFO - 尝试的FFmpeg路径列表: ['c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe', 'c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe', 'C:\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe', 'C:\\Program Files (x86)\\ffmpeg\\bin\\ffmpeg.exe']
+2026-01-13 17:01:55,051 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\Users\Administrator\Documents\trae_projects\opencv\camera\ffmpeg-7.1.1-essentials_build\bin\ffmpeg.exe
+2026-01-13 17:01:55,051 - ffmpeg_stream - INFO - 检查FFmpeg路径: c:\\Users\\Administrator\\Documents\\trae_projects\\opencv\\camera\\ffmpeg-7.1.1-essentials_build\\bin\\ffmpeg.exe
+2026-01-13 17:01:55,052 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\ffmpeg\bin\ffmpeg.exe
+2026-01-13 17:01:55,052 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files\ffmpeg\bin\ffmpeg.exe
+2026-01-13 17:01:55,052 - ffmpeg_stream - INFO - 检查FFmpeg路径: C:\Program Files (x86)\ffmpeg\bin\ffmpeg.exe
+2026-01-13 17:01:55,071 - ffmpeg_stream - INFO - 找到FFmpeg (系统PATH)
+2026-01-13 17:01:55,112 - ffmpeg_stream - INFO - 从配置文件加载了 4 个摄像头配置
+2026-01-13 17:01:55,112 - ffmpeg_stream - INFO - 摄像头 0: ID=0, URL=0, Name=USB摄像头1
+2026-01-13 17:01:55,112 - ffmpeg_stream - INFO - 摄像头 1: ID=1, URL=1, Name=USB摄像头2
+2026-01-13 17:01:55,113 - ffmpeg_stream - INFO - 摄像头 2: ID=2, URL=2, Name=USB摄像头3
+2026-01-13 17:01:55,113 - ffmpeg_stream - INFO - 摄像头 3: ID=3, URL=3, Name=USB摄像头4
+2026-01-13 17:01:55,168 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrator\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 17:01:55,168 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrator\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\comtypes\gen'
+2026-01-13 17:01:55,547 - main - INFO - 应用程序启动成功
+2026-01-13 17:02:07,229 - camera_stream - INFO - [2026-01-13 17:02:07] 正在启动摄像头监控...
+2026-01-13 17:02:07,385 - ffmpeg_stream - INFO - 添加摄像头 0: 0 (配置: USB摄像头1)
+2026-01-13 17:02:08,261 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-13 17:02:08,262 - camera_stream - INFO - [2026-01-13 17:02:08] 摄像头监控已启动
+2026-01-13 17:02:11,395 - camera_stream - INFO - [2026-01-13 17:02:11] 正在停止摄像头监控...
+2026-01-13 17:02:12,343 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-13 17:02:12,348 - camera_stream - INFO - [2026-01-13 17:02:12] 摄像头监控已停止
+2026-01-13 17:03:10,013 - camera_stream - INFO - [2026-01-13 17:03:10] 正在启动摄像头监控...
+2026-01-13 17:03:10,013 - ffmpeg_stream - INFO - 添加摄像头 0: 0 (配置: USB摄像头1)
+2026-01-13 17:03:10,795 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-13 17:03:10,796 - camera_stream - INFO - [2026-01-13 17:03:10] 摄像头监控已启动
+2026-01-13 17:03:30,841 - camera_stream - INFO - [2026-01-13 17:03:30] 扫码成功: 0000000001
+2026-01-13 17:03:32,988 - camera_stream - INFO - [2026-01-13 17:03:32] 开始联动抓拍...
+2026-01-13 17:03:33,091 - camera_stream - INFO - [2026-01-13 17:03:33] 主摄像头已抓取 3 帧
+2026-01-13 17:03:34,075 - opencv_stream - INFO - OpenCV摄像头 0 已停止
+2026-01-13 17:03:34,076 - camera_stream - INFO - [2026-01-13 17:03:34] 尝试启动摄像头 2...
+2026-01-13 17:03:34,077 - ffmpeg_stream - INFO - 添加摄像头 1: 1 (配置: USB摄像头2)
+2026-01-13 17:03:34,152 - opencv_stream - ERROR - 摄像头 1 启动失败(OpenCV): 无法打开摄像头索引: 1
+2026-01-13 17:03:36,193 - camera_stream - INFO - [2026-01-13 17:03:36] 错误: 摄像头 1 启动失败(OpenCV): 无法打开摄像头索引: 1
+2026-01-13 17:03:36,676 - camera_stream - INFO - [2026-01-13 17:03:36] 摄像头 2 未连接或未能获取到图像，跳过保存
+2026-01-13 17:03:36,677 - opencv_stream - INFO - OpenCV摄像头 1 已停止
+2026-01-13 17:03:36,678 - camera_stream - INFO - [2026-01-13 17:03:36] 尝试启动摄像头 3...
+2026-01-13 17:03:36,679 - ffmpeg_stream - INFO - 添加摄像头 2: 2 (配置: USB摄像头3)
+2026-01-13 17:03:36,719 - opencv_stream - ERROR - 摄像头 2 启动失败(OpenCV): 无法打开摄像头索引: 2
+2026-01-13 17:03:37,501 - camera_stream - INFO - [2026-01-13 17:03:37] 错误: 摄像头 2 启动失败(OpenCV): 无法打开摄像头索引: 2
+2026-01-13 17:03:39,240 - camera_stream - INFO - [2026-01-13 17:03:39] 摄像头 3 未连接或未能获取到图像，跳过保存
+2026-01-13 17:03:39,241 - opencv_stream - INFO - OpenCV摄像头 2 已停止
+2026-01-13 17:03:39,242 - camera_stream - INFO - [2026-01-13 17:03:39] 尝试启动摄像头 4...
+2026-01-13 17:03:39,242 - ffmpeg_stream - INFO - 添加摄像头 3: 3 (配置: USB摄像头4)
+2026-01-13 17:03:39,274 - opencv_stream - ERROR - 摄像头 3 启动失败(OpenCV): 无法打开摄像头索引: 3
+2026-01-13 17:03:40,237 - camera_stream - INFO - [2026-01-13 17:03:40] 错误: 摄像头 3 启动失败(OpenCV): 无法打开摄像头索引: 3
+2026-01-13 17:03:41,797 - camera_stream - INFO - [2026-01-13 17:03:41] 摄像头 4 未连接或未能获取到图像，跳过保存
+2026-01-13 17:03:41,798 - opencv_stream - INFO - OpenCV摄像头 3 已停止
+2026-01-13 17:03:42,545 - opencv_stream - INFO - OpenCV摄像头 0 已启动 (index=0)
+2026-01-13 17:03:42,591 - camera_stream - INFO - [2026-01-13 17:03:42] 联动抓拍完成，共保存 3 张图像: captures\0000000001_20260113170342\cam1\cam1_1768295022545.jpg, captures\0000000001_20260113170342\cam1\cam1_1768295022561.jpg, captures\0000000001_20260113170342\cam1\cam1_1768295022575.jpg
+2026-01-13 17:03:42,596 - camera_stream - INFO - [2026-01-13 17:03:42] 身份认证成功

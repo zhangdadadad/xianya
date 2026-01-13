@@ -1,0 +1,78 @@
+{
+  "cameras": [
+    {
+      "id": 0,
+      "name": "USB摄像头1",
+      "url": "0",
+      "enabled": true,
+      "resolution": "640x480",
+      "fps": 30,
+      "type": "usb"
+    },
+    {
+      "id": 1,
+      "name": "USB摄像头2",
+      "url": "1",
+      "enabled": true,
+      "resolution": "640x480",
+      "fps": 30,
+      "type": "usb"
+    },
+    {
+      "id": 2,
+      "name": "USB摄像头3",
+      "url": "2",
+      "enabled": true,
+      "resolution": "640x480",
+      "fps": 30,
+      "type": "usb"
+    },
+    {
+      "id": 3,
+      "name": "USB摄像头4",
+      "url": "3",
+      "enabled": true,
+      "resolution": "640x480",
+      "fps": 30,
+      "type": "usb"
+    }
+  ],
+  "app": {
+    "window": {
+      "title": "湘雅身份认证系统",
+      "width": 1400,
+      "height": 900,
+      "x": 100,
+      "y": 100
+    },
+    "video": {
+      "buffer_size": 30,
+      "reconnect_interval": 5,
+      "timeout": 10,
+      "prefer_opencv_for_numeric": true
+    },
+    "logging": {
+      "level": "INFO",
+      "file": "camera_stream.log",
+      "max_size": 10485760,
+      "backup_count": 5
+    },
+    "analysis": {
+      "cooldown_sec": 2.0,
+      "min_face": 64,
+      "trigger_frames": 6,
+      "detector": "haar"
+    },
+    "capture": {
+      "enable": true,
+      "dir": "captures",
+      "count_per_camera": 3
+    },
+    "ffmpeg": {
+      "timeout": 30,
+      "reconnect_attempts": 3,
+      "low_latency": true,
+      "custom_path": "c:\\\\Users\\\\Administrator\\\\Documents\\\\trae_projects\\\\opencv\\\\camera\\\\ffmpeg-7.1.1-essentials_build\\\\bin\\\\ffmpeg.exe"
+    }
+  }
+}
